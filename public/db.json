@@ -1,0 +1,36 @@
+{"bank_management_system": [{
+    "customer_name":"Alekhya",
+    "account_number": 3478956431,
+    "account_type": "Checking",
+    "email": "alekhyareddy0102@gmail.com",
+    "balance": 10000
+  
+  },
+  {
+    "customer_name":"Deepika",
+    "account_number": 2238576940,
+    "account_type": "Savings",
+    "email": "deepikapatel12@gmail.com",
+    "balance": 520
+  },
+  {
+    "customer_name":"Akhila",
+    "account_number": 2386978456,
+    "account_type": "Savings",
+    "email": "akhilagunda09@gmail.com",
+    "balance": 2346
+  },
+  {
+    "customer_name":"Manasa",
+    "account_number": 9684736284,
+    "account_type": "Checking",
+    "email": "manasasona@gmail.com",
+    "balance": 48796
+  },
+  {
+    "customer_name":"Supriya",
+    "account_number": 1239856743,
+    "account_type": "Checking",
+    "email": "suppu216@gmail.com",
+    "balance": 1121
+  }]}
